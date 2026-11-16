@@ -186,3 +186,4 @@ src/RaceDay.Web/
 └── wwwroot/            site.css (theme), site.js, self-hosted Bootstrap 5.3, icons and fonts
 Dockerfile, .dockerignore   (repository root)
 ```
+YOUTUBE LINK:https://youtu.be/MdICsKfeGsA?si=n-E7eCgdvPhFu0JK
